@@ -1,14 +1,18 @@
+//Program To Reverse a Number
 #include<stdio.h>
 int main(){
-    int n,temp,digit,rev=0;
-    printf("Enter Element to be reverse: ");
-    scanf("%d",&n);
-    temp = n;
-    while(temp!=0){
-        digit = temp%10;
-       rev = rev *10 + digit;
-        temp = temp/10;
+    int num, digit, rev = 0;
+    printf("Enter Number to be reverse: ");
+    //Taking Input from user
+    scanf("%d",&num);
+    printf("Number: %d\n",num);
+    //Loop for Reverse a Number
+    while(num!=0){
+        digit = num%10;
+        rev = rev *10 +digit;
+        num = num/10;
     }
-    printf("Reverse Number: %d",rev);
+    //Print the Reverse Number
+    printf("Reverse: %d",rev);
     return 0;
 }
