@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+// Find length of string without strlen
+int main() {
+    char str[100];
+    int i = 0;
+
+    printf("Enter string: ");
+    scanf("%s", str);
+
+    while(str[i] != '\0') {
+        i++;
+    }
+
+    printf("Length = %d", i);
+
+    return 0;
+}
