@@ -1,29 +1,46 @@
-My C Practice
+# My C Programming Practice
 
-This repository contains basic C programs for practice.
+This repository contains a curated collection of basic to intermediate C programs developed for practicing core programming concepts and improving problem-solving skills.
 
-Programs included:A
-- Armstrong Number
-- Array Sum
-- Fibonacci Number
-- Pointer Arithmetic
-- Prime Number
-- Reverse Number
-- Swap Number
-- Palindrome Number
-- Count Vowels
-- Duplicate Elements
-- Number Pattern
-- Star Pattern
-- Pyramid Pattern
-- Reverse Array
-- String length
-- String Palindrome
-- String Reverse
-- Calculator
 
-Language used:
-C
+## 📌 Programs Included
 
-Author:
-Ashu Sharma
+- Armstrong Number  
+- Array Sum  
+- Fibonacci Number  
+- Pointer Arithmetic  
+- Prime Number  
+- Reverse Number  
+- Swap Numbers (Using Pointers)  
+- Palindrome Number  
+- Count Vowels  
+- Duplicate Elements in Array  
+- Number Pattern  
+- Star Pattern  
+- Pyramid Pattern  
+- Reverse Array  
+- String Length (Without strlen)  
+- String Palindrome  
+- String Reverse  
+- Simple Calculator  
+
+
+## 💻 Language Used
+- C Programming
+
+
+## 🎯 Learning Outcomes
+Through this repository, I have:
+- Strengthened fundamental concepts of C programming  
+- Gained hands-on experience with arrays, pointers, and strings  
+- Improved logical thinking and problem-solving skills  
+- Practiced writing clean and structured code  
+
+
+## 👩‍💻 Author
+**Ashu Sharma**
+
+
+
+## ✅ Status
+This repository represents my foundational learning in C programming and is now complete.
